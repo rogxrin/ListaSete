@@ -1,4 +1,4 @@
-// Vinicius Garcia Silva / Ciência Da Computação.
+
 
 import java.util.Scanner;
 
